@@ -1,0 +1,8 @@
+package LaboratoryWork2.LaboratoryWork2Maven;
+
+import java.security.SecureRandom;
+import java.util.ArrayList;
+
+public class App {
+	
+}
