@@ -1,0 +1,6 @@
+package LaboratoryWork2.LaboratoryWork2Maven;
+
+
+public class App {
+	
+}
